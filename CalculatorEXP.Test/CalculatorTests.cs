@@ -7,7 +7,7 @@ namespace CalculatorEXP.Test
         public void GivenTwoNumbers_Add_ReturnsTheTwoNumbersAddedTogether()
         {
 
-            // tesing
+            
             var one = 1;
             var two = 2;
             var actual = _calculator.Add(one, two);
