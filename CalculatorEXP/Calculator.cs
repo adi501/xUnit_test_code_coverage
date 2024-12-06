@@ -16,7 +16,7 @@ namespace CalculatorEXP
                 return 0 + two;
             }
 
-            return one - two;
+            return one + two;
         }
         public int Subtract(int one, int two)
         {
